@@ -1,0 +1,1 @@
+# gulp-slice-sprite
