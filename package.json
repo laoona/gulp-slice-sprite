@@ -1,0 +1,29 @@
+{
+  "name": "gulp-slice-sprite",
+  "version": "0.0.1",
+  "description": "css img sprite for slice-cli",
+  "main": "lib/gulp-css-spritesmith.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laoono/gulp-slice-sprite.git"
+  },
+  "keywords": [
+    "slice",
+    "sprite"
+  ],
+  "author": "laoono@163.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laoono/gulp-slice-sprite/issues"
+  },
+  "homepage": "https://github.com/laoono/gulp-slice-sprite#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "gulp-util": "^3.0.8",
+    "spritesmith": "^1.5.0",
+    "through2": "^2.0.3"
+  }
+}
