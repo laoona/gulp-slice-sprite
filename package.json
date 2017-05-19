@@ -1,6 +1,6 @@
 {
   "name": "gulp-slice-sprite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "css img sprite for slice-cli",
   "main": "lib/gulp-css-spritesmith.js",
   "scripts": {
